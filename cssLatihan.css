@@ -120,5 +120,11 @@ ol.d {
     color: rgb(0, 0, 0);
   }
 
-  /*  */
+  .copyright {
+	text-align: center;
+	font-family: Georgia, serif;
+	color: whitesmoke;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
  
